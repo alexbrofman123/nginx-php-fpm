@@ -1,4 +1,4 @@
-FROM php:7.1.3-fpm-alpine
+FROM php:7.1.7-fpm-alpine
 
 MAINTAINER ngineered <support@ngineered.co.uk>
 
